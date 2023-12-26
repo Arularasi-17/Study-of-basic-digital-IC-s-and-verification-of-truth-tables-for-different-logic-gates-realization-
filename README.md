@@ -66,7 +66,15 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 Output:
+![CODE EXP 1](https://github.com/Arularasi-17/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147410018/5213efec-1f57-4e2c-b4ad-04d43493acf6)
+![WAVE FORM EXP 1](https://github.com/Arularasi-17/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147410018/6ff08975-f8f7-4788-a3c2-ed2c86ac7363)
+
+
 RTL
+![LOGIC DIAGRAM EXP 1](https://github.com/Arularasi-17/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147410018/d7b7d56c-0586-4f8a-ad7e-4516e494d77a)
+TIMING DIAGRAM
+![TIME LINE  DIAGRAM EXP 1](https://github.com/Arularasi-17/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147410018/5468a360-e27d-488e-b57b-81d5e09e3aaf)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
